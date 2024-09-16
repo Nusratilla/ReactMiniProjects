@@ -1,4 +1,4 @@
-// import '../../'
+// import css from "../../"
 import { useEffect, useState } from 'react'
 
 const StopWatch = () => {
